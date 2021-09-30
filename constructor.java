@@ -11,7 +11,6 @@ this.salary=c;
 public static void main(String[] A){
     emp p=new emp(101,"Bhanu", 500.00);
     System.out.println(p.emp_name);
-	System.out.println(p.emp_no);
-	System.out.println(p.salary);
+    
    }
 }
